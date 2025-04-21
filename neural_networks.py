@@ -1,6 +1,6 @@
 import numpy as np
-import tensorflow as tf
-from tensorflow import keras
+# import tensorflow as tf
+# from tensorflow import keras
 
 def create_simple_nn(input_shape, hidden_units=32, output_units=1, activation='relu'):
     """
